@@ -1,0 +1,313 @@
+[
+  {
+   "_id": ObjectId("63ca5d48a3f14f5ff348b51d"),
+   "key": [
+    "edit:home",
+    "view:home"
+   ],
+   "scope": "boring",
+   "updated_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "created_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "module": "home",
+   "description": "User would be able to edit details on the home page",
+   "subModule": null,
+   "name": "Can edit home page",
+   "__v": 0,
+   "lastLogin": IsoDate("2023-01-20T13:22:27.158Z")
+  },
+  {
+   "_id": ObjectId("63ca5d9692e18c9023cefb20"),
+   "key": [
+    "view:Collections",
+    "edit:Collections"
+   ],
+   "scope": "boring",
+   "updated_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "created_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "module": "users",
+   "description": "View and Edit Collections",
+   "subModule": "users",
+   "name": "Can fund wallet",
+   "__v": 0,
+   "lastLogin": IsoDate("2023-01-20T13:22:27.158Z")
+  },
+  {
+   "_id": ObjectId("63ca5d6d492c67537de01bf9"),
+   "key": [
+    "edit:Requests",
+    "view:Requests"
+   ],
+   "scope": "boring",
+   "updated_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "created_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "module": "business",
+   "description": "View and Edit business requests data",
+   "subModule": "Activation",
+   "name": "Can edit KYC data",
+   "__v": 0,
+   "lastLogin": IsoDate("2023-01-20T13:22:27.158Z")
+  },
+  {
+   "_id": ObjectId("63ca5d83f17769815754b1d1"),
+   "key": [
+    "edit:Accounts",
+    "view:Accounts"
+   ],
+   "scope": "boring",
+   "updated_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "created_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "module": "users",
+   "description": "View and Edit Accounts",
+   "subModule": null,
+   "name": "Can edit apps",
+   "__v": 0,
+   "lastLogin": IsoDate("2023-01-20T13:22:27.158Z")
+  },
+  {
+   "_id": ObjectId("63ca5d7792b15c0b27e6bddf"),
+   "key": [
+    "view:DirectPay",
+    "edit:DirectPay"
+   ],
+   "scope": "boring",
+   "updated_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "created_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "module": "business",
+   "description": "View and Edit Business DirectPay",
+   "subModule": null,
+   "name": "Can view apps",
+   "__v": 0,
+   "lastLogin": IsoDate("2023-01-20T13:22:27.158Z")
+  },
+  {
+   "_id": ObjectId("63ca5df444eaa67506256973"),
+   "key": [
+    "view:payments"
+   ],
+   "scope": "boring",
+   "updated_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "created_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "module": "payments",
+   "description": "View payments collected",
+   "subModule": null,
+   "name": "Can view payments",
+   "__v": 0,
+   "lastLogin": IsoDate("2023-01-20T13:22:27.158Z")
+  },
+  {
+   "_id": ObjectId("63ca5db3a3e8c1794070c0a9"),
+   "key": [
+    "edit:Settlements",
+    "view:Settlements"
+   ],
+   "scope": "boring",
+   "updated_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "created_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "module": "money",
+   "description": "View and Edit Settlements",
+   "subModule": null,
+   "name": "Can edit statement pages",
+   "__v": 0,
+   "lastLogin": IsoDate("2023-01-20T13:22:27.158Z")
+  },
+  {
+   "_id": ObjectId("63ca5d63e798c8a9ab802c09"),
+   "key": [
+    "view:Activated",
+    "edit:Activated"
+   ],
+   "scope": "boring",
+   "updated_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "created_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "module": "business",
+   "description": "View Business Activation Data",
+   "subModule": "Activation",
+   "name": "Can view KYC data",
+   "__v": 0,
+   "lastLogin": IsoDate("2023-01-20T13:22:27.158Z")
+  },
+  {
+   "_id": ObjectId("63ca5de4c9f21a02f875481e"),
+   "key": [
+    "view:customers"
+   ],
+   "scope": "boring",
+   "updated_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "created_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "module": "customers",
+   "description": "View your customers",
+   "subModule": null,
+   "name": "Can view customers",
+   "__v": 0,
+   "lastLogin": IsoDate("2023-01-20T13:22:27.158Z")
+  },
+  {
+   "_id": ObjectId("63ca5d598773f5123e541de5"),
+   "key": [
+    "view:dashboard"
+   ],
+   "scope": "boring",
+   "updated_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "created_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "module": "dashboard",
+   "description": "User would be able to view metric on the dashboard",
+   "subModule": null,
+   "name": "Can view dashboard",
+   "__v": 0,
+   "lastLogin": IsoDate("2023-01-20T13:22:27.158Z")
+  },
+  {
+   "_id": ObjectId("63ca5e25d53573c6f4dc067c"),
+   "key": [
+    "view:api_logs"
+   ],
+   "scope": "boring",
+   "updated_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "created_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "module": "API logs",
+   "description": "view api logs",
+   "subModule": null,
+   "name": "Can view logs",
+   "__v": 0,
+   "lastLogin": IsoDate("2023-01-20T13:22:27.158Z")
+  },
+  {
+   "_id": ObjectId("63ca5da2af499171548567bc"),
+   "key": [
+    "view:Billings",
+    "edit:Billings"
+   ],
+   "scope": "boring",
+   "updated_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "created_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "module": "money",
+   "description": "View and Billings ",
+   "subModule": null,
+   "name": "Can see statement pages",
+   "__v": 0,
+   "lastLogin": IsoDate("2023-01-20T13:22:27.158Z")
+  },
+  {
+   "_id": ObjectId("63ca5dd8db6f4b797cdb825e"),
+   "key": [
+    "view:Audit Logs"
+   ],
+   "scope": "boring",
+   "updated_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "created_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "module": "others",
+   "description": "View Audit Logs",
+   "subModule": null,
+   "name": "Can edit customers",
+   "__v": 0,
+   "lastLogin": IsoDate("2023-01-20T13:22:27.158Z")
+  },
+  {
+   "_id": ObjectId("63ca5d8c8b44f777b6eb4af0"),
+   "key": [
+    "view:Activities",
+    "edit:Activities"
+   ],
+   "scope": "boring",
+   "updated_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "created_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "module": "users",
+   "description": "View and Edit Activities",
+   "subModule": null,
+   "name": "Can delete business",
+   "__v": 0,
+   "lastLogin": IsoDate("2023-01-20T13:22:27.158Z")
+  },
+  {
+   "_id": ObjecId("63ca5dbe10e09d3d167701e4"),
+   "key": [
+    "view:Logs"
+   ],
+   "scope": "boring",
+   "updated_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "created_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "module": "others",
+   "description": "View Logs",
+   "subModule": null,
+   "name": "Can view direct pages",
+   "__v": 0,
+   "lastLogin": IsoDate("2023-01-20T13:22:27.158Z")
+  },
+  {
+   "_id": ObjectId("63ca5dca69befb92a779d6c1"),
+   "key": [
+    "view:Team",
+    "edit:Team"
+   ],
+   "scope": "boring",
+   "updated_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "created_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "module": "others",
+   "description": "View and Edit Team",
+   "subModule": null,
+   "name": "Can edit direct pages",
+   "__v": 0,
+   "lastLogin": IsoDate("2023-01-20T13:22:27.158Z")
+  },
+  {
+   "_id": ObjecId("63ca5e0213242374ee3134e8"),
+   "key": [
+    "edit:payments",
+    "view:payments"
+   ],
+   "scope": "boring",
+   "updated_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "created_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "module": "payments",
+   "description": "edit payments collected",
+   "subModule": null,
+   "name": "Can edit payments",
+   "__v": 0,
+   "lastLogin": IsoDate("2023-01-20T13:22:27.158Z")
+  },
+  {
+   "_id": ObjectId("63ca5e0e66ed5d29bb82fabf"),
+   "key": [
+    "view:event_logs"
+   ],
+   "scope": "boring",
+   "updated_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "created_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "module": "event logs",
+   "description": "view event logs",
+   "subModule": null,
+   "name": "Can view logs",
+   "__v": 0,
+   "lastLogin": IsoDate("2023-01-20T13:22:27.158Z")
+  },
+  {
+   "_id": ObjectId("63ca5e33da4754730cb04f1e"),
+   "key": [
+    "view:webhook_logs"
+   ],
+   "scope": "boring",
+   "updated_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "created_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "module": "webhook logs",
+   "description": "view webhook logs",
+   "subModule": null,
+   "name": "Can view logs",
+   "__v": 0,
+   "lastLogin": IsoDate("2023-01-20T13:22:27.158Z")
+  },
+  {
+   "_id": ObjectId("63ca5e465efdcc886efdfd71"),
+   "key": [
+    "view:settings"
+   ],
+   "scope": "boring",
+   "updated_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "created_at": IsoDate("2023-01-20T13:22:27.158Z"),
+   "module": "settings",
+   "description": "view business settings",
+   "subModule": null,
+   "name": "Can view settings",
+   "__v": 0,
+   "lastLogin": IsoDate("2023-01-20T13:22:27.158Z")
+  }
+ ]
